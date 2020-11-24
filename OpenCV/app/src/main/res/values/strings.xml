@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">OpenCV</string>
+    <string name="opencv_demo">OpenCV Camera\nDemo</string>
+
+    <string name="menu_gray">Escala de cinza</string>
+    <string name="menu_bw">Preto e branco</string>
+    <string name="menu_canny">Canny</string>
+    <string name="menu_color">Colorido</string>
+    <string name="menu_histogram">Histograma</string>
+    <string name="menu_texture">Textura</string>
+    <string name="menu_choose_color">Sobreposição de cor</string>
+    <string name="menu_gaussiana">Gaussiana</string>
+    <string name="menu_switch_camera">Trocar de câmera</string>
+
+    <string name="n_90_degree">90</string>
+    <string name="n_180_degree">180</string>
+    <string name="n_270_degree">270</string>
+    <string name="n_0_degree">0</string>
+</resources>

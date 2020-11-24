@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_switch_camera"
+        android:icon="@drawable/ic_switch_camera_white"
+        android:title="@string/menu_switch_camera"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_color"
+        android:orderInCategory="1"
+        android:title="@string/menu_color"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_gray"
+        android:orderInCategory="2"
+        android:title="@string/menu_gray"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_bw"
+        android:orderInCategory="3"
+        android:title="@string/menu_bw"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_canny"
+        android:orderInCategory="4"
+        android:title="@string/menu_canny"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_histogram"
+        android:orderInCategory="8"
+        android:title="@string/menu_histogram"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_choose_color"
+        android:orderInCategory="9"
+        android:title="@string/menu_choose_color"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_gaussiana"
+        android:orderInCategory="7"
+        android:title="@string/menu_gaussiana"
+        app:showAsAction="never" />
+</menu>
